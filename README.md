@@ -15,7 +15,7 @@ Team A wins            | Team B wins
 **Download from the [LINK!](https://github.com/Iltwats/Court-Counter/releases/download/v1.0/CourtCounter.apk)**
 
 ### Source Code
-- [MainActivity.java](https://github.com/Iltwats/Court-Counter/blob/master/app/src/main/java/com/example/android/justjava/MainActivity.java)
+- [MainActivity.java](https://github.com/Iltwats/Court-Counter/blob/master/app/src/main/java/com/example/android/courtcounter/MainActivity.java)
 - [activity_main.xml](https://github.com/Iltwats/Court-Counter/blob/master/app/src/main/res/layout/activity_main.xml)
 
 
